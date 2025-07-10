@@ -1,6 +1,6 @@
 # Projeto SQL - Banco de dados Relacional de E-commerce
 
-Este projeto consiste na construção e consulta de um banco de dados relacional para um sistema de E-commerce, com base em um modelo conceitual previamente elaborado. A estrutura abrange as principais entidades do domínio, como produtos, clientes, pedidos, fornecedores, vendedores, estoques, pagamentos e entregas.
+Este projeto consiste na construção e consulta de um banco de dados relacional para um sistema de E-commerce, com base em um modelo conceitual previamente elaborado no projeto desafio_sql. A estrutura abrange as principais entidades do domínio, como produtos, clientes, pedidos, fornecedores, vendedores, estoques, pagamentos e entregas.
 
 ## Objetivos
 
